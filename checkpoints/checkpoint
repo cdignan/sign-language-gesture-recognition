@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/camerondignan/reu/sign-language-gesture-recognition/checkpoints/pool.model"
+all_model_checkpoint_paths: "/Users/camerondignan/reu/sign-language-gesture-recognition/checkpoints/pool.model"
